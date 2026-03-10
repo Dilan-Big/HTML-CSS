@@ -13,7 +13,7 @@ h1 {
     margin: 10px;
 
 }
-div {
+.receta {
     background-color: aquamarine;
     margin: 20px;
     padding: 15px;
@@ -22,4 +22,30 @@ div {
 }
 ul {
     list-style: none;
+}
+.receta_1 {
+    background-color: rgb(91, 124, 142);
+    margin: 25px;
+    padding: 18px;
+    border: 8px solid rgb(6, 11, 75);
+    border-radius: 15px;
+}
+.receta_2 {
+    background-color: rgb(200, 162, 236);
+    margin: 25px;
+    padding: 18px;
+    border: 8px solid rgb(67, 5, 62);
+    border-radius: 15px;
+}
+.receta_3 {
+    background-color: rgb(162, 236, 189);
+    margin: 25px;
+    padding: 18px;
+    border: 8px solid rgb(5, 67, 31);
+    border-radius: 15px;
+}
+.container{
+    background-color: rgb(231, 225, 134);
+    margin: 25px;
+    padding: 15px;
 }
